@@ -1,27 +1,40 @@
 {
-  "name": "react-native-device-info",
-  "version": "0.25.1",
-  "description": "Get device information using react-native",
-  "main": "deviceinfo.js",
-  "typings": "./deviceinfo.d.ts",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/rebeccahughes/react-native-device-info"
-  },
-  "scripts": {
-    "shipit": "np"
-  },
-  "keywords": [
-    "react-component",
-    "react-native",
-    "ios",
-    "android",
-    "windows",
-    "device",
-    "events",
-    "cocoapod"
+  "_args": [
+    [
+      "react-native-device-info@0.21.4",
+      "/Volumes/MacSSD/Projects/MustarReact"
+    ]
   ],
-  "author": "Rebecca Hughes <rebecca@learnium.net> (https://github.com/rebeccahughes)",
+  "_from": "react-native-device-info@0.21.4",
+  "_id": "react-native-device-info@0.21.4",
+  "_inBundle": false,
+  "_integrity": "sha512-ES/VpItH88N2FM5L5YoObzVsAYIimweR3y17+qfljidq6tOSZGcQp2YVP+lhe991KZZ+PM/vByA4vCk6rsRkpw==",
+  "_location": "/react-native-device-info",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "react-native-device-info@0.21.4",
+    "name": "react-native-device-info",
+    "escapedName": "react-native-device-info",
+    "rawSpec": "0.21.4",
+    "saveSpec": null,
+    "fetchSpec": "0.21.4"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/react-native-device-info/-/react-native-device-info-0.21.4.tgz",
+  "_spec": "0.21.4",
+  "_where": "/Volumes/MacSSD/Projects/MustarReact",
+  "author": {
+    "name": "Rebecca Hughes",
+    "email": "rebecca@learnium.net",
+    "url": "https://github.com/rebeccahughes"
+  },
+  "bugs": {
+    "url": "https://github.com/rebeccahughes/react-native-device-info/issues"
+  },
   "contributors": [
     {
       "name": "Gant Laborde",
@@ -34,9 +47,32 @@
       "url": "https://github.com/machour"
     }
   ],
-  "license": "MIT",
+  "description": "Get device information using react-native",
   "devDependencies": {
     "np": "^2.16.0",
     "prettier": "^1.10.2"
-  }
+  },
+  "homepage": "https://github.com/rebeccahughes/react-native-device-info#readme",
+  "keywords": [
+    "react-component",
+    "react-native",
+    "ios",
+    "android",
+    "windows",
+    "device",
+    "events",
+    "cocoapod"
+  ],
+  "license": "MIT",
+  "main": "deviceinfo.js",
+  "name": "react-native-device-info",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rebeccahughes/react-native-device-info.git"
+  },
+  "scripts": {
+    "shipit": "np"
+  },
+  "typings": "./deviceinfo.d.ts",
+  "version": "0.21.4"
 }
